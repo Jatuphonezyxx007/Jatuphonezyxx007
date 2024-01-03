@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jatuphon Wongputta.
+- 👀 I’m interested in Coding.
+- 🌱 I’m currently learning HTML, CSS, MySQL and Python.
+- 💞️ I’m looking to collaborate.
+- 📫 E-mail : Jatupol51061@gmal.com
