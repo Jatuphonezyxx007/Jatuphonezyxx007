@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jatuphon Wongputta.
 - 🏴 My nationality is Thai.
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning HTML, CSS, MySQL and Python.
+- 🌱 I’m currently learning HTML, CSS, PHP and Python.
 - 💞️ I’m looking to collaborate.
 - 📫 E-mail : Jatupol51061@gmal.com
