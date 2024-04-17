@@ -4,3 +4,4 @@
 - 🌱 I’m currently learning HTML, CSS, PHP
 - 💞️ I’m looking to collaborate.
 - 📫 E-mail : Jatupol51061@gmal.com
+- 📚 Now I studying the major of Business Computer, at Mahasarakham University
